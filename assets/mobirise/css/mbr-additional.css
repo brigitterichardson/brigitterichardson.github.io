@@ -778,8 +778,8 @@ a {
   background-image: url("../../../assets/images/anthony-tran-vxymirxr5ac-unsplash-2000x1333.webp");
 }
 .cid-u5tk40aeC6 .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.5;
+  background-color: #232323;
+  opacity: 0.1;
 }
 @media (min-width: 768px) {
   .cid-u5tk40aeC6 {
@@ -892,8 +892,6 @@ a {
   max-width: 800px;
 }
 .cid-u5tsN9zBxm {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
   background-color: #ffffff;
 }
 .cid-u5tsN9zBxm .mbr-fallback-image.disabled {
