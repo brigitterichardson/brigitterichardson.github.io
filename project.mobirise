@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "pakdumkbhs",
+    "mbrsiteDomain": "cc3s2vumhm",
     "usedWebp": true,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -70,7 +70,7 @@
     "publishChangesOnly": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "witsec-white-label": true,
-    "google-analytics": "G-3FH79BC310",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-3FH79BC310\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-3FH79BC310');\n</script>",
     "witsec-mailform": false
   },
   "pages": {
