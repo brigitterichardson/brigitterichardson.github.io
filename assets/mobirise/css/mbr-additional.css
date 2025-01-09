@@ -1380,7 +1380,7 @@ a {
   text-align: left;
 }
 .cid-u5tsN9zBxm {
-  background-color: #f7f7f7;
+  background-color: #edefeb;
 }
 .cid-u5tsN9zBxm .mbr-fallback-image.disabled {
   display: none;
@@ -1423,9 +1423,7 @@ a {
   color: #232323;
 }
 .cid-u5tshJ9t6T {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #f7f7f7;
+  background-color: #edefeb;
 }
 .cid-u5tshJ9t6T .mbr-fallback-image.disabled {
   display: none;
@@ -1464,54 +1462,23 @@ a {
 .cid-u5tshJ9t6T .mbr-section-btn {
   color: #232323;
 }
-.cid-u75nGdtDaP {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #f7f7f7;
+.cid-uzpRMVhZCb {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #edefeb;
 }
-.cid-u75nGdtDaP .mbr-fallback-image.disabled {
-  display: none;
+.cid-uzpRMVhZCb .mbr-text {
+  color: #000000;
 }
-.cid-u75nGdtDaP .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-uzpRMVhZCb .mbr-section-subtitle {
+  color: #000000;
 }
-.cid-u75nGdtDaP .item-wrapper {
-  display: flex;
-  margin-bottom: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-u75nGdtDaP .item-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-u75nGdtDaP .img-wrapper {
-  width: 10rem;
-  padding-right: 1.5rem;
-}
-.cid-u75nGdtDaP .content-head {
-  max-width: 800px;
-}
-.cid-u75nGdtDaP .card-title {
-  text-align: left;
-}
-.cid-u75nGdtDaP .card-text DIV {
-  text-align: left;
-}
-.cid-u75nGdtDaP .card-text {
-  text-align: left;
-}
-.cid-u75nGdtDaP .mbr-section-title {
-  text-align: left;
+.cid-uzpRMVhZCb .mbr-section-title {
+  color: #000000;
 }
 .cid-u5thDW7jWQ {
   padding-top: 3rem;
-  padding-bottom: 1rem;
+  padding-bottom: 3rem;
   background: #edefeb;
 }
 .cid-u5thDW7jWQ .mbr-fallback-image.disabled {
@@ -1622,7 +1589,7 @@ a {
 .cid-u5thsCYfVX {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #f7f7f7;
+  background-color: #edefeb;
   overflow: hidden;
 }
 .cid-u5thsCYfVX .media-container-row .mbr-text {
